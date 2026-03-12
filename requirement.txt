@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-groq
+langgraph
+langchain-text-splitters
+pypdf
+streamlit
+plotly
+pandas
+python-dotenv
